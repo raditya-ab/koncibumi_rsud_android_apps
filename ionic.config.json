@@ -1,0 +1,7 @@
+{
+  "name": "RSUD Sumedang Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
